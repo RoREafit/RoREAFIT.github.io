@@ -4,4 +4,4 @@
 ## Sergio Monsalve
 smonsal3@eafit.edu.co
 
-![Sam](Team/sam.jpg)
+![Sam](sam.jpg)
