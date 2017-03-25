@@ -12,14 +12,14 @@ comunidad de la Universidad EAFIT en Medellín Colombia interesados en RoR.
 
 ## Sesiones
 
-### Sesión 1
+### [Sesión 1](Sesiones/sesion1.md)
 
 + Presentación
 + Intereses y Experiencia en RoR
 + Modo de Trabajo
 + Proyecto a Construir
 
-### Sesión 2
+### [Sesión 2](Sesiones/sesion2.md)
 
 - llevar Blog Básico
 - Problemas e Instrucciones de Instalación
