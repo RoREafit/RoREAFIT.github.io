@@ -23,6 +23,6 @@ comunidad de la Universidad EAFIT en Medellín Colombia interesados en RoR.
 
 - llevar Blog Básico
 - Problemas e Instrucciones de Instalación
-- Instalación Rails (En un server bajo Linux!!!! )
+- [Instalación Rails (En un server bajo Linux!!!! )](Sesion1/InstruccionesInstalacion.md)
 - Deploy (de prueba)
 - Pendientes Próxima Reunión
