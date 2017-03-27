@@ -1,8 +1,15 @@
 
 
-# Sesion 1
+# Sesión 1
 
 (Si usted esta intereado en pertenecer a este grupo enviar un correo a: )
+
+## Orden del día:
+
++ Presentación
++ Intereses y Experiencia en RoR
++ Modo de Trabajo
++ Proyecto a Construir: 
 
 ## Modo de Trabajo
 
